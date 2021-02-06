@@ -1,0 +1,17 @@
+.text-field {
+  position: relative;
+  box-shadow: 0;
+  margin-top: 8px;
+  -webkit-tap-highlight-color: transparent;
+  width: 100%;
+
+  input {
+    display: block;
+    border: 1px solid #cac4d1;
+    border-radius: 4px;
+    background-color: white;
+    margin: 0;
+    color: #605c66;
+    padding: 16px;
+  }
+}
